@@ -1,0 +1,102 @@
+body {
+					
+					font-family: "The Next Font", cursive, TheNextFont;
+					font-size: 25px;
+					background: #ffffff;
+					padding: 1px;
+					margin: 1px;
+					text-align: center;
+				
+					
+					
+}
+
+
+
+.content {
+	paddin: 10px;
+	clear: left;
+	margin: 20px 1%;
+	
+}
+
+.topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ffcc00;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #ffcc00;
+    color: white;
+}
+
+h1 {
+	color: black;
+	float: center;
+	margin-left: 0px;
+}
+h2 {
+	margin-left: 200px;
+	color: black;
+	float: left;
+}
+h3 {
+	margin-left: 150px;
+	color: black;
+	float: left;
+	font-size: 20px;
+}
+h4 {
+	margin-left: 200px;
+	color: black;
+	float: left;
+	font-size: 40px;
+}
+h5 {
+	margin-left: 200px;
+	color: black;
+	float: left;
+	font-size: 20px;
+}
+.foto2 {
+	margin-left: 200px;
+	float: left;
+	
+}
+.foto3 {
+	margin-left: 20px;
+	transform: rotate(10deg);
+	float: center;
+}
+
+.mybutton {
+	margin-left: 0px;
+	color: black;
+	float: left;
+	font-size: 15px;
+}
+		
